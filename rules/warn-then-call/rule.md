@@ -29,14 +29,9 @@ guid: f1f96132-3b5d-43a6-9ed4-aed16f885875
 
 It can be very jarring when somebody is called out of the blue and they are not expecting it. They might be deep in a task or talking to a client and by calling them their focus is getting disrupted.
 
-Before calling someone, be sure [not to just say 'hello'](/no-hello).
-
 A good way to initiate a call is to warm them up by giving a warning (e.g. *“Calling you in 1 min to talk about the Northwind production site being down 💀.”*)
 
 <!--endintro-->
-
-`youtube: https://www.youtube.com/embed/oOEpdViHeVI`
-**Video: No Hello - Say Goodbye to Time Wasting with this Simple Productivity Trick| SSW Rules (6 min)**
 
 ## The benefits of a warm call
 
