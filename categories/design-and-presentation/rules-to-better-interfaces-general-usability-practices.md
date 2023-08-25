@@ -11,6 +11,7 @@ index:
 - do-you-make-users-intuitively-know-how-to-use-something
 - less-is-more-do-you-know-people-scan-not-read
 - less-is-more-do-you-always-try-to-reduce-complexity
+- f-shaped-reading-pattern
 - enforce-the-text-meaning-with-icons-and-emojis
 - add-a-spot-of-color-for-emphasis
 - do-you-understand-the-importance-of-language-in-your-ui
